@@ -14,12 +14,24 @@ body {
     display:flex;
 }
 ul li{
-    color:rgb(92, 91, 91);
+    color:rgb(122, 121, 121);
     font-size: 1.5rem; 
     font-family: 'Roboto', sans-serif;
 }
+.cfont{
+    font-size: 2.5rem; font-family: 'Roboto', sans-serif;
+}
+.ctfont{
+    font-size: 1.5rem; font-family: 'Roboto', sans-serif; color:rgb(122, 121, 121);
+}
+.ch4{
+    font-size: 2.5rem; font-family: 'Roboto', sans-serif;
+}
 .image{
     width: 100%;
+}
+p{
+    text-align: justify;
 }
 /* .left{
     float:left;
